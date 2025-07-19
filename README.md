@@ -5,7 +5,7 @@ It is hosted here with the author's permission, for the sole benefit of the comm
 
 Feel free to use Pull requests or Issues to share remarks, but don't expect too hardly an answer from the author.
 
-All the content is in the file KunkinKP184.c
+All the content is in the file kp184.c
 
 Original readme by the author :
 
