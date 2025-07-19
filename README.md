@@ -1,7 +1,9 @@
-# Kunkin KP184 RSR232 control program
+# Kunkin KP184 RS232 control program for Linux, and (maybe) Windows
 
 **Disclaimer: The owner of this GitHub account is NOT the author of this program.
 It is hosted here with the author's permission, for the sole benefit of the community, without any support of any kind.**
+
+Feel free to use Pull requests or Issues to share remarks, but don't expect too hardly an answer from the author.
 
 All the content is in the file KunkinKP184.c
 
